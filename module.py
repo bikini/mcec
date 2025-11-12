@@ -7,7 +7,7 @@ from mcec.minecraft.event import ClientEvent
 
 class McECModule(Base):
     description = "Crash server through WorldEdit plugin"
-    author = "asn"
+    author = "skeptical"
     date = "12-14-22"
 
     def init(self):
